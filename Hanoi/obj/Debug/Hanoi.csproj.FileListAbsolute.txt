@@ -1,0 +1,7 @@
+D:\C#_project\Hanoi\Hanoi\bin\Debug\Hanoi.exe.config
+D:\C#_project\Hanoi\Hanoi\bin\Debug\Hanoi.exe
+D:\C#_project\Hanoi\Hanoi\bin\Debug\Hanoi.pdb
+D:\C#_project\Hanoi\Hanoi\obj\Debug\Hanoi.csprojAssemblyReference.cache
+D:\C#_project\Hanoi\Hanoi\obj\Debug\Hanoi.csproj.CoreCompileInputs.cache
+D:\C#_project\Hanoi\Hanoi\obj\Debug\Hanoi.exe
+D:\C#_project\Hanoi\Hanoi\obj\Debug\Hanoi.pdb
